@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a59251b-527d-42b9-b78c-80d295e7042a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/loginform/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/loginform/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loginform/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/loginform/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loginform/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/loginform/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loginform/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/loginform/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loginform/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/loginform/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,13 +19,14 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/loginform" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RaXwssOofm5SwW5uZ2eVYsF3aE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/loginform/src" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -59,6 +57,7 @@
       <updated>1569906421403</updated>
       <workItem from="1569906423063" duration="14376000" />
       <workItem from="1569984655885" duration="899000" />
+      <workItem from="1569989136242" duration="1367000" />
     </task>
     <servers />
   </component>
